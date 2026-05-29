@@ -1,5 +1,7 @@
-function showMessage(){
+function startLearning(){
+  window.location.href = "courses.html";
+}
 
-    alert("Welcome to Astrology Website");
-
+function enrollNow(){
+  window.location.href = "enroll.html";
 }
